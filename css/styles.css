@@ -51,10 +51,14 @@
 body{
     background-color: #ffffff;
 }
+window.fullScreenElement{
+    background-color: #ffffff;
+}
 cite{
     color: #000;
-    font-size: 25px;
+    font-size: 35px;
     position: relative;
+    font-weight: 150;
 }
 #teste{
     /*Horizontal*/
